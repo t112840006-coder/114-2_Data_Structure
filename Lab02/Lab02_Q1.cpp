@@ -15,4 +15,4 @@ int findMax(const vector<int>& arr) {
     }
 
     return max; // 1 step (回傳結果)
-}
+}//Total step = 3 + 6n - 6 + 1 = 6n - 2 
